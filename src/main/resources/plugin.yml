@@ -1,0 +1,7 @@
+name: GarbageCollector
+version: '${project.version}'
+main: ru.enis.garbagecollector.GarbageCollector
+api-version: 1.13
+authors: [ TheGamingGrunts, Enis ]
+description: Garbage Collector(with console fix)
+website: https://www.spigotmc.org/resources/garbage-collector.26902/

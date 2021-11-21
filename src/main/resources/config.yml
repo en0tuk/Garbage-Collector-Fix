@@ -1,0 +1,10 @@
+# Garbage Collector Configuration File   #
+#              2021 Enis                 #
+#________________________________________#
+
+
+# Control how frequently (in minutes) the collector will run
+frequency: 5
+
+# Print messages to console when the collector runs
+debug: true
